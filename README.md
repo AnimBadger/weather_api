@@ -1,0 +1,1 @@
+In this repository i will work on a simple weather app that generates weather from cities.
